@@ -7,7 +7,7 @@ Página Quem somos
 ![preview](https://github.com/LuanLafayete/ProjetoUniversidadeUnes/blob/main/github/quem-somos.png)
 
 Página Contato
-![preview](./.github/contato.pnghttps://github.com/LuanLafayete/ProjetoUniversidadeUnes/blob/main/github/contato.png)
+![preview](https://github.com/LuanLafayete/ProjetoUniversidadeUnes/blob/main/github/contato.png)
 
 
 Página contruída apenas usando os conceitos de HTML5.
